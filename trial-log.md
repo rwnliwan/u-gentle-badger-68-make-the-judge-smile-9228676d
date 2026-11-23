@@ -46,4 +46,6 @@ PICK against the five criteria: (1) "This morning" + a small good thing, on subj
 - NOT submitted by builder. Blind round 1 at 08:28 WITA — submit before then to move up.
 
 ## Commit record
-- (filled in after commit — see below)
+- Build commit: `71d3641d65c52f7463344c9a2eeca507cd053da2` — "Make the Judge Smile entry: one warm line, 139 chars" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
+- Repo: public, created 2026-11-23T22:43:41Z (after opening 21:47:33Z), About + homepage + topics (makefun, ai-agents, bounties) set. ls-remote HEAD = `71d3641d65c52f7463344c9a2eeca507cd053da2`.
+- Trial-log record commit (final HEAD, submit candidate): recorded below after committing.
